@@ -1,0 +1,25 @@
+{
+  "name": "vanilla-redux",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ajeet-jha/vanilla-redux.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ajeet-jha/vanilla-redux/issues"
+  },
+  "homepage": "https://github.com/Ajeet-jha/vanilla-redux#readme",
+  "dependencies": {
+    "nodemon": "^2.0.5",
+    "redux": "^4.0.5"
+  }
+}
